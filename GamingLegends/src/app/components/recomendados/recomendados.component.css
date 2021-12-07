@@ -1,0 +1,356 @@
+.header-text{
+    color: rgb(253, 7, 7);
+    font-size: 20px;
+    
+}
+
+.page-card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.card{
+    height: 150px;
+    width: 400px;
+    padding: 10px;
+}
+
+
+* {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.img-legend {
+    background: url("../../../assets/img/juego.jpg");
+    background-size: cover;
+    width: 400px;
+    height: 300px;
+}
+
+.legend {
+    color: #fff;
+    background-color: #0000008f;
+    padding: 0 10px 0 10px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    opacity: 0;
+    transition: opacity 1.3s;
+}
+
+.legend:hover {
+    opacity: 1;
+}
+
+hr {
+    border: 0.1px solid #fff;
+}
+
+
+
+.img-legend2 {
+    background: url("../../../assets/img/among.png");
+    background-size: cover;
+    width: 400px;
+    height: 300px;
+}
+
+.legend {
+    color: #fff;
+    background-color: #0000008f;
+    padding: 0 10px 0 10px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    opacity: 0;
+    transition: opacity 1.3s;
+}
+
+.legend:hover {
+    opacity: 1;
+}
+
+hr {
+    border: 0.1px solid #fff;
+}
+
+
+.img-legend3 {
+    background: url("../../../assets/img/ap.jpg");
+    background-size: cover;
+    width: 400px;
+    height: 300px;
+}
+
+.legend {
+    color: #fff;
+    background-color: #0000008f;
+    padding: 0 10px 0 10px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    opacity: 0;
+    transition: opacity 1.3s;
+}
+
+.legend:hover {
+    opacity: 1;
+}
+
+hr {
+    border: 0.1px solid #fff;
+}
+
+.img-legend4 {
+    background: url("../../../assets/img/cyber.jpg");
+    background-size: cover;
+    width: 400px;
+    height: 300px;
+}
+
+.legend {
+    color: #fff;
+    background-color: #0000008f;
+    padding: 0 10px 0 10px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    opacity: 0;
+    transition: opacity 1.3s;
+}
+
+.legend:hover {
+    opacity: 1;
+}
+
+hr {
+    border: 0.1px solid #fff;
+}
+
+.img-legend5 {
+    background: url("../../../assets/img/destyni.jpg");
+    background-size: cover;
+    width: 400px;
+    height: 300px;
+}
+
+.legend {
+    color: #fff;
+    background-color: #0000008f;
+    padding: 0 10px 0 10px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    opacity: 0;
+    transition: opacity 1.3s;
+}
+
+.legend:hover {
+    opacity: 1;
+}
+
+hr {
+    border: 0.1px solid #fff;
+}
+
+
+.img-legend6{
+    background: url("../../../assets/img/valorant.jpg");
+    background-size: cover;
+    width: 400px;
+    height: 300px;
+}
+
+.legend {
+    color: #fff;
+    background-color: #0000008f;
+    padding: 0 10px 0 10px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    opacity: 0;
+    transition: opacity 1.3s;
+}
+
+.legend:hover {
+    opacity: 1;
+}
+
+hr {
+    border: 0.1px solid #fff;
+}
+
+
+.img-legend7 {
+    background: url("../../../assets/img/left.jpg");
+    background-size: cover;
+    width: 400px;
+    height: 300px;
+}
+
+.legend {
+    color: #fff;
+    background-color: #0000008f;
+    padding: 0 10px 0 10px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    opacity: 0;
+    transition: opacity 1.3s;
+}
+
+.legend:hover {
+    opacity: 1;
+}
+
+hr {
+    border: 0.1px solid #fff;
+}
+
+.img-legend8 {
+    background: url("../../../assets/img/rocket.jpg");
+    background-size: cover;
+    width: 400px;
+    height: 300px;
+}
+
+.legend {
+    color: #fff;
+    background-color: #0000008f;
+    padding: 0 10px 0 10px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    opacity: 0;
+    transition: opacity 1.3s;
+}
+
+.legend:hover {
+    opacity: 1;
+}
+
+hr {
+    border: 0.1px solid #fff;
+}
+
+.img-legend9 {
+    background: url("../../../assets/img/star.jpg");
+    background-size: cover;
+    width: 400px;
+    height: 300px;
+}
+
+.legend {
+    color: #fff;
+    background-color: #0000008f;
+    padding: 0 10px 0 10px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    opacity: 0;
+    transition: opacity 1.3s;
+}
+
+.legend:hover {
+    opacity: 1;
+}
+
+hr {
+    border: 0.1px solid #fff;
+}
+
+.img-legend10 {
+    background: url("../../../assets/img/forza.png");
+    background-size: cover;
+    width: 400px;
+    height: 300px;
+}
+
+.legend {
+    color: #fff;
+    background-color: #0000008f;
+    padding: 0 10px 0 10px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    opacity: 0;
+    transition: opacity 1.3s;
+}
+
+.legend:hover {
+    opacity: 1;
+}
+
+hr {
+    border: 0.1px solid #fff;
+}
+
+.img-legend11 {
+    background: url("../../../assets/img/half.jpg");
+    background-size: cover;
+    width: 400px;
+    height: 300px;
+}
+
+.legend {
+    color: #fff;
+    background-color: #0000008f;
+    padding: 0 10px 0 10px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    opacity: 0;
+    transition: opacity 1.3s;
+}
+
+.legend:hover {
+    opacity: 1;
+}
+
+hr {
+    border: 0.1px solid #fff;
+}
+
+.img-legend12 {
+    background: url("../../../assets/img/over.jpg");
+    background-size: cover;
+    width: 400px;
+    height: 300px;
+}
+
+.legend {
+    color: #fff;
+    background-color: #0000008f;
+    padding: 0 10px 0 10px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    opacity: 0;
+    transition: opacity 1.3s;
+}
+
+.legend:hover {
+    opacity: 1;
+}
+
+hr {
+    border: 0.1px solid #fff;
+}
+
+
+
+

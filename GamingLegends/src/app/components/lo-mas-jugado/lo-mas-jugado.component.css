@@ -1,0 +1,144 @@
+.img-banner{
+    height: 200px;
+    background-image: url('../../../assets/img/central.jpg');
+    background-position-x: 40%;
+    background-position-y: 30%;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    display: flex;
+    align-items:flex-end;
+    padding-bottom: 100px;
+    justify-content:center;
+}
+
+.header-text{
+    color: #fff;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+
+.cards-container{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+.card{
+    width: 300px;
+    background-color: rgb(65, 62, 62);
+    color: #fff;
+}
+.card-body{
+    padding: 10px;
+}
+
+.card-title{
+    margin-bottom: 10px;
+}
+
+.img-card{
+    height: 150px;
+    width: 300px;
+    background-image: url("../../../assets/img/freefire.png");
+    background-size: caver;
+    background-position-x: 50%;
+    background-position-y:50% ;
+    background-repeat: no-repeat;
+}
+
+.img-card2{
+    height: 150px;
+    width: 300px;
+    background-image: url("../../../assets/img/GTA5.png");
+    background-size: caver;
+    background-position-x: 50%;
+    background-position-y:50% ;
+}
+
+.img-card3{
+    height: 150px;
+    width: 300px;
+    background-image: url("../../../assets/img/minecraft.png");
+    background-size: caver;
+    background-position-x: 50%;
+    background-position-y:50% ;
+}
+
+.img-card4{
+    height: 150px;
+    width: 300px;
+    background-image: url("../../../assets/img/fornite.png");
+    background-size: caver;
+    background-position-x: 50%;
+    background-position-y:50% ;
+}
+
+.img-card5{
+    height: 150px;
+    width: 300px;
+    background-image: url("../../../assets/img/peleas.png");
+    background-size: caver;
+    background-position-x: 50%;
+    background-position-y:50% ;
+    
+
+}
+
+
+.img-card6{
+    height: 150px;
+    width: 300px;
+    background-image: url("../../../assets/img/armas.png");
+    background-size: caver;
+    background-position-x: 50%;
+    background-position-y:50% ;
+
+}
+
+.img-card7{
+    height: 150px;
+    width: 300px;
+    background-image: url("../../../assets/img/batalla.png");
+    background-size: caver;
+    background-position-x: 50%;
+    background-position-y:50% ;
+    background-repeat: no-repeat;
+
+
+}
+.img-card8{
+    height: 150px;
+    width: 300px;
+    background-image: url("../../../assets/img/among.png");
+    background-size: caver;
+    background-position-x: 50%;
+    background-position-y:50% ;
+}
+
+.img-card9{
+    height: 150px;
+    width: 300px;
+    background-image: url("../../../assets/img/roblox.png");
+    background-size: caver;
+    background-position-x: 50%;
+    background-position-y:50% ;
+}
+.img-card10{
+    height: 150px;
+    width: 300px;
+    background-image: url("../../../assets/img/dota.png");
+    background-size: caver;
+    background-position-x: 50%;
+    background-position-y:50% ;
+}
+
+.img-card11{
+    height: 150px;
+    width: 300px;
+    background-image: url("../../../assets/img/fifa.png");
+    background-size: caver;
+    background-position-x: 50%;
+    background-position-y:50% ;
+}
+

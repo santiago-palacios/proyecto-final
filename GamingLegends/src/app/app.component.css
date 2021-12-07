@@ -1,0 +1,28 @@
+.div-container{
+    display: flex;
+    background-color:rgb(48, 133, 133);
+    padding: 16px;
+    align-items: center;
+}
+.menu-options-containers{
+        display:flex ;
+        list-style: none;
+        align-items: center;
+}
+
+.brand-container{
+    display: flex;
+}
+
+.menu-item{
+    text-decoration:none;
+    color: #fff;
+    margin: 7px;
+}
+.inicio-title{
+    color: rgb(255, 250, 250);
+    margin: 14px;
+}
+.img-logo{
+    width: 40px;
+}
